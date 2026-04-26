@@ -50,4 +50,4 @@ gator agg 30s
 
 # Browse latest posts
 gator browse 10
-```
+```# Gator
